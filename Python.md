@@ -4,6 +4,12 @@
 
 ### [Setting up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 
+## Tools
+
+### [Pelican](http://docs.getpelican.com/)
+
+生成靜態網頁的工具，類似 [Hexo](https://hexo.io/)。
+
 ## Packages
 
 ### [Orator](https://orator-orm.com/)
