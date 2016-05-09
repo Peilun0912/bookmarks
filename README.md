@@ -12,10 +12,6 @@
 
 ## 好東西
 
-### [aws-shell](https://github.com/awslabs/aws-shell)
-
-算是 AWS CLI 的強化版？
-
 ### [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
 
 收錄大量免費的程式相關書籍。
