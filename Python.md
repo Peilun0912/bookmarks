@@ -1,5 +1,9 @@
 # Python
 
+## Articles
+
+### [Setting up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+
 ## Packages
 
 ### [Orator](https://orator-orm.com/)

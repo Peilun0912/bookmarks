@@ -2,12 +2,6 @@
 
 ## 好文
 
-### [Setting up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
-
-雖然我現在主要的編輯器是新歡 Atom，但是舊愛還是最美（？）。Sublime Text 也是有著強大的社群支援，而且程式本身比 Atom 輕量很多，哪天作者突然想開把它開源的話，大概 Atom 就只能挫咧等。
-
-扯遠了，回到正題。之前我以 PHP 為主要語言開發網站時是用 Sublime Text，所以已經有一份自己的必裝套件清單。現在的工作要寫 Python，還沒時間研究有哪些套件要裝，好在有這篇文章可以省下不少功夫。除了 Python 的專屬套件，文章還介紹了其他不限語言的套件，可以參考看看。
-
 ### [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 所有攻城獅、程序猿都該學會用 CLI 處理大小事，可以讓你看起來比較 PRO。
