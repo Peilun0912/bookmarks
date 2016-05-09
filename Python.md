@@ -12,4 +12,4 @@
 
 ### [TinyDB](https://tinydb.readthedocs.org/)
 
-以 JSON 檔案當資料庫來操作的套件，感覺像是更輕量化的 NoSQL 版 SQLite？
+以 JSON 檔案當資料庫來操作的套件，感覺像是 NoSQL 版 SQLite？
