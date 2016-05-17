@@ -38,7 +38,13 @@
 
 * [Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator): 這個 repository 示範如何用同一份 source code 寫出手機端、桌面端和網頁版 app。
 
-## Python
+## PHP🐘
+
+### Articles
+
+* [理解 Dependency Injection 實作原理 | 網站製作學習誌](http://jaceju.net/2014/07/27/php-di-container/)
+
+## Python🐍
 
 ### Articles
 
