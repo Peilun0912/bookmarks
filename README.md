@@ -25,6 +25,9 @@
 
 * [aws-shell](https://github.com/awslabs/aws-shell)
 
+## Database
+
+* [RethinkDB](http://www.rethinkdb.com/): 偶然發現的資料庫，採用 JSON 來儲存（MongoDB 用 BSON），支援 GIS 操作。主打可以即時推送資料，不用讓應用程式一直輪詢。順帶一提，我是在看 [Horizon](http://horizon.io/) 發現到這個資料庫的。
 
 ## Git
 
@@ -64,6 +67,10 @@
 ## Resources
 
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books): 收錄大量學習程式的資源，而且不限英文，還有日文跟中文的。
+
+### Font for Coding
+
+* [mononoki](http://madmalik.github.io/mononoki/)
 
 ## Services
 
