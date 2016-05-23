@@ -10,3 +10,5 @@
   好像很威的樣子！
 
 * [aws-shell](https://github.com/awslabs/aws-shell)
+
+* [Serverless Framework](https://github.com/serverless/serverless): 另外一個可以部署 AWS Lambda 的工具。
