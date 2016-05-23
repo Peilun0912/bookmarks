@@ -2,6 +2,10 @@
 
 ## Articles
 
+* [Python Tips](https://github.com/rainyear/pytips):
+  > 每天一条有用的 Python 小提示
+
+  實際上是大提示。
 * [Setting up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 * [深入理解Python类库引入机制](https://github.com/Liuchang0812/slides/blob/master/pycon2015cn/README.md): 詳細介紹了 Python 的 import 機制是怎麼運作的。
 
