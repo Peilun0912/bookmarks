@@ -1,15 +1,5 @@
 # Bookmarks
 
-## Apps
-
-### OS X
-
-* [AppCleaner](http://freemacsoft.net/appcleaner/): 除了移除應用程式本身，這程式還會找出該應用程式建立的設定檔或檔案夾供你一並移除，以達到深層清潔（？）的效果。
-
-### Windows
-
-* [Everything](http://www.voidtools.com/): Windows 下最好用的搜尋工具。
-
 ## Articles
 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): 所有攻城獅、程序猿都該學會用 CLI 處理大小事，可以讓你看起來比較 PRO。
