@@ -20,12 +20,6 @@
 
 * [Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator): 這個 repository 示範如何用同一份 source code 寫出手機端、桌面端和網頁版 app。
 
-## PHP🐘
-
-### Articles
-
-* [理解 Dependency Injection 實作原理 | 網站製作學習誌](http://jaceju.net/2014/07/27/php-di-container/)
-
 ## Resources
 
 * [List of Free Learning Resources](https://github.com/vhf/free-programming-books): 收錄大量學習程式的資源，而且不限英文，還有日文跟中文的。
