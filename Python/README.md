@@ -9,6 +9,12 @@
 * [Setting up Sublime Text 3 for Full Stack Python Development](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 * [深入理解Python类库引入机制](https://github.com/Liuchang0812/slides/blob/master/pycon2015cn/README.md): 詳細介紹了 Python 的 import 機制是怎麼運作的。
 
+## Frameworks
+
+### [Scrapy](http://scrapy.org/)
+
+1.1 版開始支援 Python 3.3+。
+
 ## Tools
 
 * [Pelican](http://docs.getpelican.com/): 生成靜態網頁的工具，類似 [Hexo](https://hexo.io/)。
