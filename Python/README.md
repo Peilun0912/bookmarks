@@ -28,9 +28,9 @@
 
 ## Packages
 
-### [Orator](https://orator-orm.com/): 從[碼天狗週刊 ISSUE 30](http://weekly.codetengu.com/issues/30#start)
+### [Orator](https://orator-orm.com/)
 
-看來的 ORM 套件。由於受 [Laravel](https://laravel.com/) 啟發，因此使用方式非常相似，連說明文件的內容都很相似！
+從[碼天狗週刊 ISSUE 30](http://weekly.codetengu.com/issues/30#start) 看來的 ORM 套件。由於受 [Laravel](https://laravel.com/) 啟發，因此使用方式非常相似，連說明文件的內容都很相似！
 
 ### [TinyDB](https://tinydb.readthedocs.org/)
 
