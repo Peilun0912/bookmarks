@@ -13,3 +13,7 @@
 > 在《重構》這本書中也會看到，重構不見得一定是抽象化的過程，必要時會朝反方向，無論是為了去除不必要的間接呼叫、委託或者繼承的複雜度等。重構就是基於程式碼的現況，讓程式碼進行抽象化，甚至是解除抽象化，必要時基於需求來解除抽象化，總比一開始就一昧擁抱複製、貼上、搜尋、取代來得好吧！
 
 重構時才進行抽象化，搭配版本控制留下蛛絲馬跡供後人追尋源頭，也比一開始就拒絕抽象化而到處複製貼上、重複使用程式碼來得好。
+
+## [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
+
+[中文翻譯版本](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)。
