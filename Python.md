@@ -2,6 +2,13 @@
 
 ## Articles
 
+
+### Decorators
+
+* [A guide to Python's function decorators | The Code Ship](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
+* [A Guide to Python Decorators - Code School Blog](https://www.codeschool.com/blog/2016/05/12/a-guide-to-python-decorators/)
+* [[Python]原来你是这样的修饰器 - 简书](http://www.jianshu.com/p/98ca249b1326)
+
 ### [Python Tips](https://github.com/rainyear/pytips)
 
 > 每天一条有用的 Python 小提示
