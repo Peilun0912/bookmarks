@@ -17,3 +17,8 @@
 ## [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414)
 
 [中文翻譯版本](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)。
+
+## Reasons to Do Code Reviews
+
+- [让 Code Review 成为一种习惯 | 火光摇曳](http://www.flickering.cn/uncategorized/2014/08/%e8%ae%a9-code-review%e6%88%90%e4%b8%ba%e4%b8%80%e7%a7%8d%e4%b9%a0%e6%83%af/)
+- [大澤木小鐵的 code review 心得](https://www.facebook.com/jace.ju/posts/1047797475301945)
