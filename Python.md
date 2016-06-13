@@ -9,7 +9,7 @@
 * [A Guide to Python Decorators - Code School Blog](https://www.codeschool.com/blog/2016/05/12/a-guide-to-python-decorators/)
 * [[Python]原来你是这样的修饰器 - 简书](http://www.jianshu.com/p/98ca249b1326)
 
-### [Python Tips](https://github.com/rainyear/pytips)
+### [Python Tips](http://tips.pyhub.cc/)
 
 > 每天一条有用的 Python 小提示
 
