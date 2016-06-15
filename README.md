@@ -4,10 +4,6 @@
 
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): 所有攻城獅、程序猿都該學會用 CLI 處理大小事，可以讓你看起來比較 PRO。
 
-## Database
-
-* [RethinkDB](http://www.rethinkdb.com/): 偶然發現的資料庫，採用 JSON 來儲存（MongoDB 用 BSON），支援 GIS 操作。主打可以即時推送資料，不用讓應用程式一直輪詢。順帶一提，我是在看 [Horizon](http://horizon.io/) 發現到這個資料庫的。
-
 ## Git
 
 ### Tools
