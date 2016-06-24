@@ -18,6 +18,8 @@
 
 [中文翻譯版本](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)。
 
+## [程式設計不等同於軟體開發 | iThome](http://www.ithome.com.tw/voice/89695)
+
 ## [面試技術夥伴的心得 – 問、聽、追 | Pesty's Articles](https://pesty.yichi.org/2011/10/08/interview_technical_partners/)
 
 ## [怎麼帶新人進入軟體團隊？ | Pesty's Articles](https://pesty.yichi.org/2011/10/26/how_to_coach_new_partners/)
