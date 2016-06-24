@@ -18,13 +18,16 @@
 
 [中文翻譯版本](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)。
 
-## Reasons to Do Code Reviews
-
-- [让 Code Review 成为一种习惯 | 火光摇曳](http://www.flickering.cn/uncategorized/2014/08/%e8%ae%a9-code-review%e6%88%90%e4%b8%ba%e4%b8%80%e7%a7%8d%e4%b9%a0%e6%83%af/)
-- [大澤木小鐵的 code review 心得](https://www.facebook.com/jace.ju/posts/1047797475301945)
-
 ## [面試技術夥伴的心得 – 問、聽、追 | Pesty's Articles](https://pesty.yichi.org/2011/10/08/interview_technical_partners/)
 
 ## [怎麼帶新人進入軟體團隊？ | Pesty's Articles](https://pesty.yichi.org/2011/10/26/how_to_coach_new_partners/)
 
+## Code Review
+
 ## [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+
+### 推行 Code Review 的理由
+
+#### [让 Code Review 成为一种习惯 | 火光摇曳](http://www.flickering.cn/uncategorized/2014/08/%e8%ae%a9-code-review%e6%88%90%e4%b8%ba%e4%b8%80%e7%a7%8d%e4%b9%a0%e6%83%af/)
+
+#### [大澤木小鐵的 code review 心得](https://www.facebook.com/jace.ju/posts/1047797475301945)
