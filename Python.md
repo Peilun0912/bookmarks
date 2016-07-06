@@ -43,6 +43,10 @@
 
 看說明是適合用來讀取大容量文字檔的工具。
 
+### [Pendulum](http://pendulum.eustace.io/)
+
+Orator 作者新的作品，提供簡單明暸的方式處理 datetimes、timedeltas 和 timezones。
+
 ### [TinyDB](https://tinydb.readthedocs.org/)
 
 以 JSON 檔案當資料庫來操作的套件，感覺像是 NoSQL 版 SQLite？
